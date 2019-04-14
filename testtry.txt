@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 dummy file for testing
 
 
 this my develper 1 100 lines of bug fix code 
+=======
+dummy file for testing 
+
+this is the kundrel lines of first bug fix
+>>>>>>> 6f94e8832cb5ea47d3c453d1df4637d732d565a8
