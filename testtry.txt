@@ -8,3 +8,4 @@ dummy file for testing
 
 this is the kundrel lines of first bug fix
 >>>>>>> 6f94e8832cb5ea47d3c453d1df4637d732d565a8
+this is the first commit 
